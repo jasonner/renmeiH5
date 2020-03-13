@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f66;
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="ic_control_video" class="cls-1">
+    <circle class="cls-2" cx="4" cy="4" r="4"/>
+    <circle class="cls-3" cx="4" cy="4" r="3"/>
+  </g>
+</svg>

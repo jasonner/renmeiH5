@@ -1,0 +1,75 @@
+.player .play_end {
+	display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.player .play_end .btn {
+	padding: 8px 20px;
+	background: #FF6666;
+	font-size: 13px;
+	color: #fff;
+	border-radius: 19px;
+}
+.player .play_end .btn.replay {
+	margin-right: 13px;
+	background: #666666;
+}
+
+/*.popup {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+    left: 0;
+    top: 0;
+	background:rgba(0,0,0,0.4);
+	z-index: 999;
+}
+.popup-con {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 268px;
+	height: 216px;
+	margin-left: -134px;
+	margin-top: -108px;
+	padding: 0 33px;
+	background:#fff;
+	 border-radius: 4px;
+}
+
+.popup-con h3 {
+	padding: 30px 0;
+	font-size: 21px;
+	font-weight: bold;
+	line-height: 24px;
+	color: rgba(79, 81, 91, 1);
+}
+
+.popup-con .text {
+	height: 65px;
+	font-size: 15px;
+	line-height: 22px;
+	color: #333;
+}
+
+.popup-con .btn-group {
+	display: flex;
+	flex-flow: row-reverse;
+	padding: 15px 0;
+}
+
+.popup-con .btn-group .btn {
+	width: 63px;
+	height: 36px;
+	line-height: 36px;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+	color: #4F515B;
+}
+
+.popup-con .btn-group .btn.open {
+	color: #FF6666;
+}*/
